@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/72671239/220068698-7877bbf4-a1b2-471e-b0cf-c490fbf25022.png)
+
 once i noted that it uses Flask/jinja2 i thought of the SSTI, tested it and was confirmed
 ```bash
 http://178.62.20.33:31990/{{ 7*7 }}
